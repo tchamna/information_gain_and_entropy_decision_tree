@@ -10,5 +10,5 @@ Although Sophisticated machine learning Algorithm are able to calculate decision
 3. <b> Total_right</b> = Total Number of instances in the right branch
 4. <b> Nclass_right</b> = Number of instances in the minimum class of the right branch.  If we have only one class, then the minimum is the number of instances in that class. If we have two equal classes, then the minimum is the number of instances in either class.
 
-5. <b> Nclass_parent</b>= Number of instances in the <b>minimum class of the parent</b>
+5. <b> Nclass_parent</b> = Number of instances in the <b>minimum class of the parent</b>
 
